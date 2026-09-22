@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #FAF7F2;
+    color: #1A2421;
+  }
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', Georgia, serif;
+}
+
+.font-urdu {
+  font-family: 'Noto Nastaliq Urdu', 'Jameel Noori Nastaleeq', 'Urdu Typesetting', serif;
+  line-height: 2.2;
+}
+
+/* Subtle traditional Pakistani geometric / jaali border accents */
+.bg-subtle-pattern {
+  background-color: #FAF7F2;
+  background-image: radial-gradient(#C29B38 0.65px, transparent 0.65px), radial-gradient(#0E4B37 0.65px, #FAF7F2 0.65px);
+  background-size: 26px 26px;
+  background-position: 0 0, 13px 13px;
+  background-opacity: 0.04;
+}
+
+.gold-gradient-border {
+  border-image: linear-gradient(to right, #C29B38, #E5C365, #C29B38) 1;
+}

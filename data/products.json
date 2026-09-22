@@ -1,0 +1,259 @@
+[
+  {
+    "id": "prod-l-001",
+    "name": "Luxury Embroidered Lawn 3-Piece Unstitched Suit",
+    "code": "MCH-L-101",
+    "gender": "Ladies",
+    "category": "Embroidered",
+    "fabric": "Lawn",
+    "color": "Teal & Gold",
+    "price": 4850,
+    "priceType": "Fixed Price",
+    "availability": "Available",
+    "description": "Premium quality summer lawn unstitched 3-piece suit with intricate neckline embroidery, printed lawn shirt, dyed cambric trouser, and printed voil dupatta. Soft, breathable, and colorfast weave.",
+    "mainImage": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true,
+    "isNewArrival": true,
+    "createdAt": "2026-03-01T10:00:00Z",
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "id": "prod-l-002",
+    "name": "Digital Printed 2-Piece Summer Lawn Unstitched",
+    "code": "MCH-L-102",
+    "gender": "Ladies",
+    "category": "Printed",
+    "fabric": "Lawn",
+    "color": "Mustard & Navy",
+    "price": 2650,
+    "priceType": "Fixed Price",
+    "availability": "Available",
+    "description": "Fine high-count summer lawn unstitched 2-piece (Shirt & Trouser). Crisp floral design with premium dyes that maintain luster after washing. Easy to tailor to custom silhouette.",
+    "mainImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "createdAt": "2026-03-02T11:00:00Z",
+    "updatedAt": "2026-03-02T11:00:00Z"
+  },
+  {
+    "id": "prod-l-003",
+    "name": "Traditional Hand-Woven Khaddar 3-Piece Suit",
+    "code": "MCH-L-103",
+    "gender": "Ladies",
+    "category": "Khaddar",
+    "fabric": "Khaddar",
+    "color": "Rust Orange",
+    "price": 3800,
+    "priceType": "Fixed Price",
+    "availability": "Available",
+    "description": "Authentic pure woven khaddar unstitched 3-piece suit suitable for transition seasons. Rich texture with matching woolen-blend printed shawl and plain khaddar trouser.",
+    "mainImage": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": false,
+    "isNewArrival": true,
+    "createdAt": "2026-03-03T12:00:00Z",
+    "updatedAt": "2026-03-03T12:00:00Z"
+  },
+  {
+    "id": "prod-l-004",
+    "name": "Pure Karandi Embroidered Festive Collection",
+    "code": "MCH-L-104",
+    "gender": "Ladies",
+    "category": "Karandi",
+    "fabric": "Karandi",
+    "color": "Deep Maroon",
+    "price": null,
+    "priceType": "Contact for Price",
+    "availability": "Available",
+    "description": "Exclusive unstitched Karandi suit with delicate zari and resham thread embroidery on shirt daman and sleeves. Available with embroidered organza dupatta. Contact us for custom pricing and stock confirmation.",
+    "mainImage": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true,
+    "isNewArrival": true,
+    "createdAt": "2026-03-04T14:00:00Z",
+    "updatedAt": "2026-03-04T14:00:00Z"
+  },
+  {
+    "id": "prod-l-005",
+    "name": "Fine Egyptian Cotton 2-Piece Everyday Suit",
+    "code": "MCH-L-105",
+    "gender": "Ladies",
+    "category": "Cotton",
+    "fabric": "Cotton",
+    "color": "Ivory Cream",
+    "price": 2950,
+    "priceType": "Fixed Price",
+    "availability": "Available",
+    "description": "Pure 100% fine combed cotton unstitched fabric. Breathable texture designed specifically for Pakistani summer weather. Non-shrink finish.",
+    "mainImage": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "createdAt": "2026-03-05T09:00:00Z",
+    "updatedAt": "2026-03-05T09:00:00Z"
+  },
+  {
+    "id": "prod-l-006",
+    "name": "Pure Irish Linen 3-Piece Printed Collection",
+    "code": "MCH-L-106",
+    "gender": "Ladies",
+    "category": "Linen",
+    "fabric": "Linen",
+    "color": "Emerald Green",
+    "price": 3600,
+    "priceType": "Fixed Price",
+    "availability": "Available",
+    "description": "High thread-count woven linen fabric 3-piece unstitched suit with digital printed linen shirt and dupatta, matching plain trousers.",
+    "mainImage": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "createdAt": "2026-03-06T11:00:00Z",
+    "updatedAt": "2026-03-06T11:00:00Z"
+  },
+  {
+    "id": "prod-g-001",
+    "name": "Executive Wash & Wear Shalwar Qameez Fabric (4.5m)",
+    "code": "MCH-G-201",
+    "gender": "Gents",
+    "category": "Wash & Wear",
+    "fabric": "Wash & Wear",
+    "color": "Charcoal Grey",
+    "price": 2950,
+    "priceType": "Fixed Price",
+    "availability": "Available",
+    "description": "Wrinkle-resistant luxury wash & wear gents fabric. Superior drape, lightweight, and engineered for all-day comfort. 4.5 meters standard cutting for complete suit.",
+    "mainImage": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true,
+    "isNewArrival": true,
+    "createdAt": "2026-03-01T10:00:00Z",
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "id": "prod-g-002",
+    "name": "Premium Royal Boski Unstitched Gents Suit (6 Ounce)",
+    "code": "MCH-G-202",
+    "gender": "Gents",
+    "category": "Boski",
+    "fabric": "Boski",
+    "color": "Off-White / Cream",
+    "price": 6500,
+    "priceType": "Fixed Price",
+    "availability": "Available",
+    "description": "Traditional Chinese royal silk weave Boski fabric (6 pound weight). Unmatched softness, cooling sensation on skin, and graceful fall for traditional Pakistani festivities and Friday prayers.",
+    "mainImage": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true,
+    "isNewArrival": true,
+    "createdAt": "2026-03-02T10:30:00Z",
+    "updatedAt": "2026-03-02T10:30:00Z"
+  },
+  {
+    "id": "prod-g-003",
+    "name": "Superior Egyptian Latha Pure Cotton Fabric (4.5m)",
+    "code": "MCH-G-203",
+    "gender": "Gents",
+    "category": "Cotton",
+    "fabric": "Cotton",
+    "color": "Crisp White",
+    "price": 3200,
+    "priceType": "Fixed Price",
+    "availability": "Available",
+    "description": "Finest 100% combed long-staple cotton latha fabric. Firm, crisp finish with natural cooling breathability. The quintessential choice for authentic white Pakistani Shalwar Qameez.",
+    "mainImage": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": false,
+    "isNewArrival": true,
+    "createdAt": "2026-03-03T11:00:00Z",
+    "updatedAt": "2026-03-03T11:00:00Z"
+  },
+  {
+    "id": "prod-g-004",
+    "name": "Pure Heavyweight Kamalia Khaddar Gents Fabric",
+    "code": "MCH-G-204",
+    "gender": "Gents",
+    "category": "Khaddar",
+    "fabric": "Khaddar",
+    "color": "Earthy Brown",
+    "price": 3500,
+    "priceType": "Fixed Price",
+    "availability": "Available",
+    "description": "Authentic handloom-spun Kamalia style khaddar unstitched suit fabric. Solid weight, durable weave, and provides warmth during cool evenings.",
+    "mainImage": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "createdAt": "2026-03-04T12:00:00Z",
+    "updatedAt": "2026-03-04T12:00:00Z"
+  },
+  {
+    "id": "prod-g-005",
+    "name": "Exclusive Wool-Blend Premium Suiting Fabric",
+    "code": "MCH-G-205",
+    "gender": "Gents",
+    "category": "Premium Suiting",
+    "fabric": "Premium Suiting",
+    "color": "Midnight Navy",
+    "price": null,
+    "priceType": "Contact for Price",
+    "availability": "Available",
+    "description": "High-end imported blend unstitched fabric crafted for waistcoats, prince coats, and two-piece formal suits. Exquisite sheen and firm structure.",
+    "mainImage": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "createdAt": "2026-03-05T13:00:00Z",
+    "updatedAt": "2026-03-05T13:00:00Z"
+  },
+  {
+    "id": "prod-g-006",
+    "name": "Fine Tropical Linen Unstitched Gents Suit",
+    "code": "MCH-G-206",
+    "gender": "Gents",
+    "category": "Linen",
+    "fabric": "Linen",
+    "color": "Sage Olive",
+    "price": 3400,
+    "priceType": "Fixed Price",
+    "availability": "Coming Soon",
+    "description": "Air-permeable natural flax linen fabric for gents kurtas and shalwar suits. Rich earthy texture that gets softer with every wash.",
+    "mainImage": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": false,
+    "isNewArrival": true,
+    "createdAt": "2026-03-06T15:00:00Z",
+    "updatedAt": "2026-03-06T15:00:00Z"
+  }
+]

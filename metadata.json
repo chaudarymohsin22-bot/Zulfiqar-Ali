@@ -1,0 +1,6 @@
+{
+  "name": "Meerab Cloth House",
+  "description": "Production-ready modern e-commerce and internal order management system for Meerab Cloth House (میرب کلاتھ ہاؤس) unstitched fabrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
